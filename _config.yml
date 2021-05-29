@@ -22,7 +22,7 @@ title: rand() Tech Blog
 email: thibaut [AT] ro.llos.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Just a quick memo site for various random bullshit errors I encounter or other
-  stuff I'd like share about Azure, Cloud applications, Rails, NodeJS, Deno, Docker, Kubernetes...
+  stuff I'd like share about Azure, Cloud applications, Angular, Rails, NodeJS, Deno, Docker, Kubernetes...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
