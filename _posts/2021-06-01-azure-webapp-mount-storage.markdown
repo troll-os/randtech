@@ -1,10 +1,9 @@
-___
+---
 layout: post
-title:  "Monter un partage de fichier fichier sur une Web App pour Container (Docker Compose) Azure - Mount a file share on a Web app for Containers (Docker Compose) on Azure"
 date:   2021-06-01
+title:  "Monter un partage de fichier sur une Web App pour Container (Docker Compose) Azure - Mount a file share on a Web app for Containers (Docker Compose) on Azure"
 categories: azure web app container file share docker
-___
-
+---
 _English below_
 
 Alors oui on va me dire "AGNEUGNEUGE ya deja la doc ki di comen fer", certes mais la doc est pas très 
@@ -52,4 +51,4 @@ container like so :
       - name-of-your-mapping-path:/what/ever/path/
 ```
 
-And very important afterwards, don't forget to turn in your variables the value `` to `true`
+And very important afterwards, don't forget to turn in your variables the value `WEBSITES_ENABLE_APP_SERVICE_STORAGE` to `true`
