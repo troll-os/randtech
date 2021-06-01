@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Shit's open yo"
+date:   2021-05-29
+categories: jekyll post blog
 ---
 
 {:refdef: style="text-align: center"}
